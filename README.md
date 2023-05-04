@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @quiet-cabbages
-- 👀 I’m interested in comoputational linguistics and curating data for linguistic purposes
+- 👀 I’m interested in computational linguistics and curating data for linguistic purposes
 - 🌱 I’m currently learning R
 - 💞️ I’m looking to collaborate on ... hmmm
 - 📫 How to reach me ... idk why you'd want to do that
